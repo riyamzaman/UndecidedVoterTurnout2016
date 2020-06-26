@@ -1,3 +1,3 @@
-# UndecidedVoterTurnout2016
+# Predicting the Effectiveness of Voter Outreach Strategies on Voter Turnout for Undecided Voters
 
 Voter turnout is one of the metrics that is used to determine how politically engaged a given population is. With each election cycle, candidates for higher office seek to bring new and undecided voters into the political process to help build a lasting, loyal base of supporters. Given how important this metric is, from both a political engagement standpoint and an electoral standpoint, it is important to evaluate the effectiveness of different methods that are employed in the effort to “get out the vote.” Using the 2016 Cooperative Congressional Election Study (CCES) Common Content dataset, an analysis was performed to attempt to predict the effectiveness of different voter outreach strategies on voter turnout for undecided voters.
